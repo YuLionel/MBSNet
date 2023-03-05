@@ -19,6 +19,23 @@ The code is stable while using Python 3.6.13, CUDA >=10.1
 - Clone this repository:
 
 ``` Python
-git clone https://github.com/jeya-maria-jose/UNeXt-pytorch
+git clone https://github.com/YuLionel/MBSNet
 cd MBSNet
 ```
+
+If you prefer pip, install following versions:
+
+``` Python
+timm==0.3.2
+mmcv-full==1.2.7
+torch==1.7.1
+torchvision==0.8.2
+opencv-python==4.5.1.48
+```
+
+# Datasets
+- ISIC 2018 [Link](https://challenge.isic-archive.com/data/#2018)
+- Kvasir [Link](https://datasets.simula.no/kvasir-seg/#download)
+- BUSI [Link](https://academictorrents.com/details/d0b7b7ae40610bbeaea385aeb51658f527c86a16)
+
+
