@@ -26,11 +26,11 @@ cd MBSNet
 If you prefer pip, install following versions:
 
 ``` Python
-timm==0.3.2
-mmcv-full==1.2.7
-torch==1.7.1
-torchvision==0.8.2
-opencv-python==4.5.1.48
+timm==0.5.4
+torch==1.12.0
+torchvision==0.13.0
+opencv-python==4.6.0.66
+einops==0.4.1
 ```
 
 # Datasets
